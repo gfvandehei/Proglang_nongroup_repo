@@ -114,10 +114,10 @@
   (define exp1 (car(cdr cmd)))
   (prog exp1)
   )
-
+  
 ;; YOUR CODE HERE
 (define (myinterpreter x)
-;;
+;;define var list
   (cond ((eqv? x '()) (display x))
         (else(
              (display (runcommand (car x)))
