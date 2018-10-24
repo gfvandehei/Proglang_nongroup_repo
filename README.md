@@ -1,2 +1,2 @@
 # Proglang_nongroup_repo
-The non group proglang projects for fall 2018
+This is the repository for all non group programming homeworks in fall 2018 Programming Languages
